@@ -29,7 +29,6 @@
     </tr>
 </table>
  
--  **Languages :** Java, JavaScript, Klotin, JavaScript
 -  **Hobbies :** Soccer ⚽: & mountaineering ⛰️:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Fact :** First I exist, then I program 🧠:
 -  **Contact me :** Gtrab618(📫 chumbi21b@gmail.com)
