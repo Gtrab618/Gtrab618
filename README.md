@@ -4,4 +4,4 @@
 -  **Languages :** Java, JavaScript, Klotin, JavaScript
 -  **Hobbies :** Soccer ⚽: & mountaineering ⛰️:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** Gtrab618(:mailto: chumbi21b@gmail.com)
+-  **Contact me :** Gtrab618(📫 chumbi21b@gmail.com)
