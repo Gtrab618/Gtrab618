@@ -36,5 +36,5 @@
 **Play store account:**
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=8116128550516020436">
-					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
+					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40">click here</a>
       </div>
